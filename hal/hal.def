@@ -1,0 +1,5 @@
+LIBRARY hal.dll
+EXPORTS
+    DllMain
+    HalGetProcessorCount
+    HalInitialize
